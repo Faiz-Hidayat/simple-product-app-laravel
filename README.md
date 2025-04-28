@@ -2,7 +2,7 @@
 
 A simple Laravel-based product management system with a clean, responsive UI powered by Tailwind CSS.
 
-![Product Management Preview](https://via.placeholder.com/800x400?text=Product+Management+App)
+![Product Management Preview](preview.png)
 
 ## Features
 
